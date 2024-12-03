@@ -1,0 +1,2 @@
+# Galeria-git
+Repositório 
